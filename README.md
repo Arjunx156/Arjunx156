@@ -7,7 +7,7 @@
 Building production-grade AI systems — voice agents, retrieval pipelines, agentic compilers.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=flat-square&logo=vercel&logoColor=fff)](https://portfolio-chi-beryl-27.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://linkedin.com/in/arjun-krishnan-156)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://linkedin.com/in/arjunkrishnansuresh)
 
 </div>
 
