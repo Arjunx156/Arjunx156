@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/avatar.svg" alt="Arjun Krishnan personal avatar" width="100%" />
+  <img src="./assets/profile_image.png" alt="Pixel-art hands reaching toward a project window" width="100%" />
 </div>
 
 <br />
@@ -10,11 +10,20 @@
   <p>Turning unreasonable questions into useful systems.</p>
   <p>
     <a href="https://portfolio-chi-beryl-27.vercel.app/">PORTFOLIO</a>
+  <h1>Arjun Krishnan</h1>
+  <p><strong>AI / FULL-STACK ENGINEER</strong></p>
+  <p>Turning unreasonable questions into useful systems.</p>
+  <p>
+    <a href="https://portfolio-chi-beryl-27.vercel.app/">PORTFOLIO</a>
     &nbsp; · &nbsp;
     <a href="https://linkedin.com/in/arjunkrishnansuresh">LINKEDIN</a>
     &nbsp; · &nbsp;
     <a href="https://github.com/Arjunx156">GITHUB</a>
   </p>
+</div>
+
+<div align="center">
+  <img src="./assets/image.png" alt="Pixel-art astronaut portrait" width="180" />
 </div>
 
 <br />
