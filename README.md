@@ -6,13 +6,14 @@
 
 <table>
   <tr>
-    <td width="24%" valign="middle" align="center">
+    <td width="25%" valign="middle" align="center">
       <img src="./assets/image.png" alt="Pixel-art astronaut portrait" width="180" />
     </td>
-    <td width="76%" valign="middle">
+    <td width="75%" valign="middle">
+      <p><code>ARJUN.EXE / PERSONAL SYSTEMS LAB</code></p>
       <h1>Arjun Krishnan</h1>
-      <p><strong>AI / FULL-STACK ENGINEER</strong></p>
-      <p>I build AI systems that listen, retrieve, reason, and ship.</p>
+      <p><strong>I build machines that understand the messy human layer.</strong></p>
+      <p>Voice. Retrieval. Agents. Interfaces with a pulse.</p>
       <p>
         <a href="https://portfolio-chi-beryl-27.vercel.app/">Portfolio</a>
         &nbsp; · &nbsp;
@@ -36,28 +37,39 @@
 
 <br />
 
-## What I work on
+> Most software waits for a button press.
+> I am interested in what happens before the button exists.
+
+## The creative niche
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Voice agents</h3>
-      <p>Multilingual support systems with real-time orchestration and human escalation paths.</p>
+      <p><code>01 / HEAR</code></p>
+      <h3>Voice as interface</h3>
+      <p>Systems that can listen across languages, keep context, and know when a human should take over.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Grounded retrieval</h3>
-      <p>Search and RAG systems that keep answers traceable with citations and memory.</p>
+      <p><code>02 / FIND</code></p>
+      <h3>Memory with receipts</h3>
+      <p>Retrieval that does more than answer: it shows where the answer came from and why it belongs there.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Agentic software</h3>
-      <p>Compilers and tools that turn plain language into validated, executable systems.</p>
+      <p><code>03 / MAKE</code></p>
+      <h3>Language to software</h3>
+      <p>Agentic tools that turn an unreasonable sentence into a validated system someone can actually use.</p>
     </td>
   </tr>
 </table>
 
-## Selected systems
+```text
+human signal  ->  language  ->  reasoning  ->  working system
+     voice           retrieval       agents          interface
+```
 
-### CommerceMind VoiceCare AI
+## Systems in orbit
+
+### `voicecare.ai` / CommerceMind VoiceCare AI
 
 Voice-first customer support powered by a 9-agent LangGraph pipeline. Resolves queries in 9 Indian languages in under 10 seconds, with a live pipeline view, 3D audio-reactive orb, and escalation queue.
 
@@ -65,7 +77,7 @@ Voice-first customer support powered by a 9-agent LangGraph pipeline. Resolves q
 
 <a href="https://frontend-roan-three-65.vercel.app/">Live demo</a> · <a href="https://github.com/Arjunx156/VoiceCare-AI">Source</a>
 
-### NL -> App Schema Compiler
+### `schema.compiler` / NL -> App Schema Compiler
 
 Plain English to validated, execution-ready app specifications. A five-stage Gemini pipeline generates schemas in parallel and repairs only broken layers instead of regenerating the whole result.
 
@@ -73,7 +85,7 @@ Plain English to validated, execution-ready app specifications. A five-stage Gem
 
 <a href="https://nl-app-compiler.vercel.app/">Live demo</a> · <a href="https://github.com/Arjunx156/nl-app-compiler">Source</a>
 
-### Production RAG System
+### `retrieval.lab` / Production RAG System
 
 Hybrid BM25 and dense retrieval fused with Reciprocal Rank Fusion, cross-encoder reranking, page-level citations, conversation memory, and an OpenAI/Ollama switch.
 
@@ -81,7 +93,7 @@ Hybrid BM25 and dense retrieval fused with Reciprocal Rank Fusion, cross-encoder
 
 <a href="https://arjunx156.github.io/rag-system">Docs</a> · <a href="https://github.com/Arjunx156/rag-system">Source</a>
 
-### Local LLM Benchmarking Assistant
+### `offline.bench` / Local LLM Benchmarking Assistant
 
 Hardware-aware, fully offline model comparison across hand-crafted questions, live code execution, tokens per second, latency, time to first token, and peak RAM.
 
@@ -89,7 +101,7 @@ Hardware-aware, fully offline model comparison across hand-crafted questions, li
 
 <a href="https://github.com/Arjunx156/Local-LLM-Benchmarking-Assistant">Source</a>
 
-## The toolkit
+## The workshop
 
 <table>
   <tr>
@@ -110,7 +122,7 @@ Hardware-aware, fully offline model comparison across hand-crafted questions, li
   </tr>
 </table>
 
-## Credentials
+## Signals collected
 
 - Google Cloud Gen AI Academy APAC 2026, Cohort 1
 - Oracle Cloud Infrastructure AI Foundations Associate
@@ -120,5 +132,7 @@ Hardware-aware, fully offline model comparison across hand-crafted questions, li
 <br />
 
 <div align="center">
+  <p><strong>Have a strange problem?</strong><br />
+  <a href="https://linkedin.com/in/arjunkrishnansuresh">Send it over.</a></p>
   <sub>Designed and built by Arjun Krishnan · 2026</sub>
 </div>
