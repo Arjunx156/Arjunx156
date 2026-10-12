@@ -27,47 +27,60 @@
 
 <br />
 
-<div align="center">
-  <code>STATUS: CURIOUS + BUILDING</code>
-  &nbsp;&nbsp;
-  <code>BASE: INDIA</code>
-  &nbsp;&nbsp;
-  <code>OPEN TO: GOOD PROBLEMS</code>
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top"><code>STATUS</code><br /><strong>CURIOUS + BUILDING</strong></td>
+    <td width="33%" valign="top"><code>LOCATION</code><br /><strong>INDIA / ONLINE</strong></td>
+    <td width="33%" valign="top"><code>LOOKING FOR</code><br /><strong>GOOD PROBLEMS</strong></td>
+  </tr>
+</table>
 
 <br />
 
-> Most software waits for a button press.
-> I am interested in what happens before the button exists.
+<h2>Software for the in-between moments.</h2>
 
-## The creative niche
+<p>Before a question becomes a search. Before a thought becomes a prompt. Before a prompt becomes a product.</p>
+
+<p>I work in that gap: designing AI systems that feel less like a feature bolted onto software and more like a new kind of interface.</p>
+
+## The human input layer
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <p><code>01 / HEAR</code></p>
-      <h3>Voice as interface</h3>
+      <p><code>HEAR</code></p>
+      <h3>Voice is not a button</h3>
       <p>Systems that can listen across languages, keep context, and know when a human should take over.</p>
     </td>
     <td width="33%" valign="top">
-      <p><code>02 / FIND</code></p>
-      <h3>Memory with receipts</h3>
+      <p><code>FIND</code></p>
+      <h3>Memory needs receipts</h3>
       <p>Retrieval that does more than answer: it shows where the answer came from and why it belongs there.</p>
     </td>
     <td width="33%" valign="top">
-      <p><code>03 / MAKE</code></p>
-      <h3>Language to software</h3>
+      <p><code>MAKE</code></p>
+      <h3>Language can compile</h3>
       <p>Agentic tools that turn an unreasonable sentence into a validated system someone can actually use.</p>
     </td>
   </tr>
 </table>
 
 ```text
-human signal  ->  language  ->  reasoning  ->  working system
-     voice           retrieval       agents          interface
+  messy human signal
+     |
+     v
+   language + memory
+     |
+     v
+   reasoning + agents
+     |
+     v
+      working system
 ```
 
-## Systems in orbit
+## Open files
+
+<p><code>FOCUS: useful intelligence with a point of view</code></p>
 
 ### `voicecare.ai` / CommerceMind VoiceCare AI
 
@@ -103,7 +116,10 @@ Hardware-aware, fully offline model comparison across hand-crafted questions, li
 
 ## The workshop
 
-<table>
+<details>
+  <summary>Open the stack</summary>
+  <br />
+  <table>
   <tr>
     <td width="50%" valign="top">
       <strong>LANGUAGES</strong><br />
@@ -121,13 +137,26 @@ Hardware-aware, fully offline model comparison across hand-crafted questions, li
     </td>
   </tr>
 </table>
+</details>
 
-## Signals collected
+## Field notes
 
-- Google Cloud Gen AI Academy APAC 2026, Cohort 1
-- Oracle Cloud Infrastructure AI Foundations Associate
-- Published research on dual-phase BiLSTM battery management for IoT
-- Secretary, Amrita Council of Sports and Excellence
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>RESEARCH</strong><br />
+      Dual-phase BiLSTM battery management for IoT<br /><br />
+      <strong>ACADEMY</strong><br />
+      Google Cloud Gen AI Academy APAC 2026
+    </td>
+    <td width="50%" valign="top">
+      <strong>CREDENTIAL</strong><br />
+      Oracle Cloud Infrastructure AI Foundations Associate<br /><br />
+      <strong>OUTSIDE THE LOOP</strong><br />
+      Secretary, Amrita Council of Sports and Excellence
+    </td>
+  </tr>
+</table>
 
 <br />
 
