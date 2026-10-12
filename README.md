@@ -4,103 +4,118 @@
 
 <br />
 
-<div align="center">
-  <h1>Arjun Krishnan</h1>
-  <p><strong>AI / FULL-STACK ENGINEER</strong></p>
-  <p>Turning unreasonable questions into useful systems.</p>
-  <p>
-    <a href="https://portfolio-chi-beryl-27.vercel.app/">PORTFOLIO</a>
-  <h1>Arjun Krishnan</h1>
-  <p><strong>AI / FULL-STACK ENGINEER</strong></p>
-  <p>Turning unreasonable questions into useful systems.</p>
-  <p>
-    <a href="https://portfolio-chi-beryl-27.vercel.app/">PORTFOLIO</a>
-    &nbsp; · &nbsp;
-    <a href="https://linkedin.com/in/arjunkrishnansuresh">LINKEDIN</a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/Arjunx156">GITHUB</a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="24%" valign="middle" align="center">
+      <img src="./assets/image.png" alt="Pixel-art astronaut portrait" width="180" />
+    </td>
+    <td width="76%" valign="middle">
+      <h1>Arjun Krishnan</h1>
+      <p><strong>AI / FULL-STACK ENGINEER</strong></p>
+      <p>I build AI systems that listen, retrieve, reason, and ship.</p>
+      <p>
+        <a href="https://portfolio-chi-beryl-27.vercel.app/">Portfolio</a>
+        &nbsp; · &nbsp;
+        <a href="https://linkedin.com/in/arjunkrishnansuresh">LinkedIn</a>
+        &nbsp; · &nbsp;
+        <a href="https://github.com/Arjunx156">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <div align="center">
-  <img src="./assets/image.png" alt="Pixel-art astronaut portrait" width="180" />
+  <code>STATUS: CURIOUS + BUILDING</code>
+  &nbsp;&nbsp;
+  <code>BASE: INDIA</code>
+  &nbsp;&nbsp;
+  <code>OPEN TO: GOOD PROBLEMS</code>
 </div>
 
 <br />
 
+## What I work on
+
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h2>Currently building</h2>
-      <p>Production-grade AI systems that can listen, retrieve, reason, and ship a result.</p>
-      <ul>
-        <li>Voice agents for multilingual customer support</li>
-        <li>Retrieval systems with grounded citations</li>
-        <li>Agentic compilers that turn language into software</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3>Voice agents</h3>
+      <p>Multilingual support systems with real-time orchestration and human escalation paths.</p>
     </td>
-    <td width="42%" valign="top">
-      <h2>Signal</h2>
-      <p><code>STATUS: CURIOUS + BUILDING</code></p>
-      <p><code>BASE: INDIA</code></p>
-      <p><code>OPEN TO: GOOD PROBLEMS</code></p>
+    <td width="33%" valign="top">
+      <h3>Grounded retrieval</h3>
+      <p>Search and RAG systems that keep answers traceable with citations and memory.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Agentic software</h3>
+      <p>Compilers and tools that turn plain language into validated, executable systems.</p>
     </td>
   </tr>
 </table>
 
 ## Selected systems
 
+### CommerceMind VoiceCare AI
+
+Voice-first customer support powered by a 9-agent LangGraph pipeline. Resolves queries in 9 Indian languages in under 10 seconds, with a live pipeline view, 3D audio-reactive orb, and escalation queue.
+
+`LangGraph` `FastAPI` `Gemini` `Bhashini STT/TTS` `Next.js` `PostgreSQL`
+
+<a href="https://frontend-roan-three-65.vercel.app/">Live demo</a> · <a href="https://github.com/Arjunx156/VoiceCare-AI">Source</a>
+
+### NL -> App Schema Compiler
+
+Plain English to validated, execution-ready app specifications. A five-stage Gemini pipeline generates schemas in parallel and repairs only broken layers instead of regenerating the whole result.
+
+`FastAPI` `Gemini` `Pydantic` `Next.js` `SSE` `Docker`
+
+<a href="https://nl-app-compiler.vercel.app/">Live demo</a> · <a href="https://github.com/Arjunx156/nl-app-compiler">Source</a>
+
+### Production RAG System
+
+Hybrid BM25 and dense retrieval fused with Reciprocal Rank Fusion, cross-encoder reranking, page-level citations, conversation memory, and an OpenAI/Ollama switch.
+
+`FastAPI` `ChromaDB` `sentence-transformers` `Streamlit` `Docker`
+
+<a href="https://arjunx156.github.io/rag-system">Docs</a> · <a href="https://github.com/Arjunx156/rag-system">Source</a>
+
+### Local LLM Benchmarking Assistant
+
+Hardware-aware, fully offline model comparison across hand-crafted questions, live code execution, tokens per second, latency, time to first token, and peak RAM.
+
+`FastAPI` `asyncio` `Streamlit` `Docker`
+
+<a href="https://github.com/Arjunx156/Local-LLM-Benchmarking-Assistant">Source</a>
+
+## The toolkit
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>CommerceMind VoiceCare AI</h3>
-      <p>Multilingual voice support powered by a 9-agent LangGraph pipeline. Resolves queries in 9 Indian languages in under 10 seconds.</p>
-      <p><code>LangGraph</code> <code>FastAPI</code> <code>Gemini</code> <code>Next.js</code> <code>PostgreSQL</code></p>
-      <a href="https://frontend-roan-three-65.vercel.app/">Live demo</a> · <a href="https://github.com/Arjunx156/VoiceCare-AI">Source</a>
+      <strong>LANGUAGES</strong><br />
+      Python · TypeScript · C++ · SQL
+      <br /><br />
+      <strong>AI / ML</strong><br />
+      LangGraph · RAG · TensorFlow · Keras · Agentic AI
     </td>
     <td width="50%" valign="top">
-      <h3>NL -> App Schema Compiler</h3>
-      <p>Plain English to validated, execution-ready app specifications. Broken layers are repaired without regenerating the whole result.</p>
-      <p><code>FastAPI</code> <code>Gemini</code> <code>Pydantic</code> <code>Next.js</code> <code>SSE</code></p>
-      <a href="https://nl-app-compiler.vercel.app/">Live demo</a> · <a href="https://github.com/Arjunx156/nl-app-compiler">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Production RAG System</h3>
-      <p>Hybrid BM25 and dense retrieval fused with Reciprocal Rank Fusion, cross-encoder reranking, page-level citations, conversation memory, and an OpenAI/Ollama switch.</p>
-      <p><code>FastAPI</code> <code>ChromaDB</code> <code>sentence-transformers</code> <code>Streamlit</code> <code>Docker</code></p>
-      <a href="https://arjunx156.github.io/rag-system">Docs</a> · <a href="https://github.com/Arjunx156/rag-system">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Local LLM Benchmarking Assistant</h3>
-      <p>Hardware-aware, fully offline model comparison across hand-crafted questions, live code execution, tokens per second, latency, time to first token, and peak RAM.</p>
-      <p><code>FastAPI</code> <code>asyncio</code> <code>Streamlit</code> <code>Docker</code></p>
-      <a href="https://github.com/Arjunx156/Local-LLM-Benchmarking-Assistant">Source</a>
+      <strong>PRODUCT</strong><br />
+      FastAPI · PostgreSQL · Next.js · React · Tailwind CSS
+      <br /><br />
+      <strong>SHIP</strong><br />
+      Docker · Google Cloud · Oracle Cloud · Vercel · Git
     </td>
   </tr>
 </table>
 
-## Working stack
-
-<p>
-  <strong>LANGUAGES</strong><br />
-  Python · TypeScript · C++ · SQL
-</p>
-<p>
-  <strong>AI / ML</strong><br />
-  LangGraph · RAG · TensorFlow · Keras · Prompt Engineering · Agentic AI
-</p>
-<p>
-  <strong>BUILD</strong><br />
-  FastAPI · PostgreSQL · Next.js · React · Tailwind CSS · Docker · Google Cloud · Vercel
-</p>
-
 ## Credentials
 
-Google Cloud Gen AI Academy APAC 2026 · Oracle Cloud Infrastructure AI Foundations Associate · Published research on dual-phase BiLSTM battery management for IoT
+- Google Cloud Gen AI Academy APAC 2026, Cohort 1
+- Oracle Cloud Infrastructure AI Foundations Associate
+- Published research on dual-phase BiLSTM battery management for IoT
+- Secretary, Amrita Council of Sports and Excellence
 
 <br />
 
