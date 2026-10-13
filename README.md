@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-chi-beryl-27.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://arjunkrishnan.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/arjunkrishnansuresh/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:dl.ai.u4aid24107@dl.students.amrita.edu">Email</a>
 </p>
