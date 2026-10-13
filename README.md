@@ -1,140 +1,90 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Arjun, written in particles that reflow through nine scripts, from English to Punjabi.">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero-dark-still.avif">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-light-still.avif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.avif">
+  <img src="assets/hero-light.avif" width="100%" alt="Twenty thousand particles spell Arjun, speak it as a waveform, and re-form as അർജുൻ, अर्जुन and அர்ஜுன்.">
 </picture>
 
-### I build AI systems and don't call them done until the numbers agree.
+<p align="center">
+  <b>Arjun Krishnan Suresh</b> &nbsp;·&nbsp; AI engineer and researcher<br>
+  I build AI systems and don't call them done until the numbers agree.
+</p>
 
-I'm Arjun, a B.Tech student in AI and Data Science at Amrita Vishwa Vidyapeetham, Faridabad. I like seeing the whole stack, from a loss curve to a WebSocket frame. Most weeks go to LLM systems and the research that keeps them honest. Every figure below is drawn from a project's real numbers.
-
-[Portfolio](https://portfolio-chi-beryl-27.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arjunkrishnansuresh/) · [Email](mailto:dl.ai.u4aid24107@dl.students.amrita.edu)
+<p align="center">
+  <a href="https://portfolio-chi-beryl-27.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/arjunkrishnansuresh/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:dl.ai.u4aid24107@dl.students.amrita.edu">Email</a>
+</p>
 
 <br>
 
-## Systems
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/voice-dark-still.avif">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/voice-light-still.avif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/voice-dark.avif">
+  <img align="right" width="44%" src="assets/voice-light.avif" alt="A globe of particle rings that swells like a voice level meter as it turns.">
+</picture>
+
+### Systems
 
 LLM software that has to run, stream and stay up.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[VoiceCare AI](https://github.com/Arjunx156/VoiceCare-AI)**<br>Speak your problem in your own language and hear the fix back in under ten seconds. Nine LangGraph agents, nine Indian languages, one WebSocket. [Try it](https://frontend-roan-three-65.vercel.app).
+
+**[Hybrid RAG engine](https://github.com/Arjunx156/rag-system)**<br>BM25 and dense search vote, then a cross-encoder decides what the model reads. Precision@5 went from 68% to 84%, at zero cost per token. [Docs](https://arjunx156.github.io/rag-system/).
+
+<br clear="right">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/voice-dark.svg">
-  <img src="assets/voice-light.svg" width="100%" alt="One spoken request hops through nine agents, from speech to text to a ticket, inside a ten-second budget.">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/descent-dark-still.avif">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/descent-light-still.avif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/descent-dark.avif">
+  <img align="left" width="44%" src="assets/descent-light.avif" alt="A loss landscape of particles, with a vermilion path descending into its deepest basin.">
 </picture>
 
-**VoiceCare AI**<br>
-Speak your problem in your own language and hear the fix back in under ten seconds. Nine LangGraph agents carry it from speech to a ticket, all over one WebSocket, with six hard escalation rules on the way.
-
-<sub>LangGraph · Gemini 2.5 · Bhashini · FastAPI · Next.js · Postgres · Redis</sub><br>
-[Live demo](https://frontend-roan-three-65.vercel.app) · [Source](https://github.com/Arjunx156/VoiceCare-AI)
-
-</td>
-<td width="50%" valign="top">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/fusion-dark.svg">
-  <img src="assets/fusion-light.svg" width="100%" alt="A keyword ranking and a vector ranking merge by reciprocal rank fusion, a cross-encoder reorders them, and the top five go to the model.">
-</picture>
-
-**Hybrid RAG engine**<br>
-Keyword search and vector search vote, then a cross-encoder picks what the model gets to read. Answers stream with page-level citations, and one environment variable swaps OpenAI for a local Ollama model.
-
-<sub>FastAPI · ChromaDB · sentence-transformers · Ollama · Streamlit</sub><br>
-[Docs](https://arjunx156.github.io/rag-system/) · [Source](https://github.com/Arjunx156/rag-system)
-
-</td>
-</tr>
-</table>
-
-## Research
+### Research
 
 Two co-authored papers, with the failures written down too.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Battery management for IoT nodes**<br>An attention BiLSTM reads 19,735 sensor readings and predicts state of charge at R² 0.9958, and Monte Carlo dropout shows exactly where it starts to doubt.
+
+**Relief allocation for Delhi**<br>800 units of supply, 910 units of need, five districts. Urgency-weighted proximal gradient holds 0.963 fulfilment and bends to 0.941 when a route is blocked, instead of breaking.
+
+<br clear="left">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/charge-dark.svg">
-  <img src="assets/charge-light.svg" width="100%" alt="Predicted state of charge tracks the true curve, and the Monte Carlo dropout uncertainty band widens while the battery charges.">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/knot-dark-still.avif">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/knot-light-still.avif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/knot-dark.avif">
+  <img align="right" width="44%" src="assets/knot-light.avif" alt="A trefoil knot of particles turning slowly, one closed loop like the group Diffie-Hellman lives in.">
 </picture>
 
-**Intelligent battery management for IoT nodes**<br>
-A four-head attention BiLSTM predicts state of charge on 19,735 readings, split by time so the future never leaks into training. The battery-health heads scored a negative R², and that went into the paper too.
-
-<sub>Published, co-author · TensorFlow · BiLSTM · multi-head attention · Monte Carlo dropout</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/relief-dark.svg">
-  <img src="assets/relief-light.svg" width="100%" alt="Supply flows from a depot to five districts, a route is blocked, and one Dynamic Mode Decomposition eigenvalue leaves the unit circle to flag it.">
-</picture>
-
-**Emergency resource allocation for Delhi**<br>
-800 units of relief, 910 units of need, five districts. Urgency-weighted proximal gradient beat three other optimisers, and Dynamic Mode Decomposition spots a blocked route on its own, so service bends instead of breaking.
-
-<sub>Research paper, co-author · MATLAB · proximal gradient · ADMM · DMD</sub>
-
-</td>
-</tr>
-</table>
-
-## Security
+### Security
 
 Break it first, then fix it properly.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Man in the middle on Diffie-Hellman**<br>Mallory swaps both public values and quietly holds both keys, until a certificate authority signs them. Every primitive is written by hand, with zero crypto libraries.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/intercept-dark.svg">
-  <img src="assets/intercept-light.svg" width="100%" alt="Mallory swaps both Diffie-Hellman public values and holds two session keys, then a certificate authority signs the keys and her forgery fails.">
-</picture>
+**Adaptive Bandwidth Monitoring Protocol**<br>Learns what normal looks like from a rolling 20-second window and flags traffic three standard deviations out, for under 5 ms on the host.
 
-**Man in the middle on Diffie-Hellman**<br>
-Mallory swaps both public values and quietly holds both keys. Every primitive is hand-written, from Miller-Rabin to 512-bit RSA, and then a certificate authority signs the keys and the forgery fails.
+<br clear="right">
 
-<sub>Python · Miller-Rabin · RSA · PKI</sub>
+### Also built
 
-</td>
-<td width="50%" valign="top">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/spike-dark.svg">
-  <img src="assets/spike-light.svg" width="100%" alt="Throughput runs past a rolling three-sigma band, a 45.09 MB/s spike breaks out, and the protocol moves from monitor to violation.">
-</picture>
-
-**Adaptive Bandwidth Monitoring Protocol**<br>
-A big download and data exfiltration look the same to a fixed threshold. ABMP learns normal from a rolling 20-second window and flags anything three standard deviations out, as a real three-state protocol.
-
-<sub>Python · psutil · NumPy · WebSockets · Streamlit</sub>
-
-</td>
-</tr>
-</table>
-
-## Also built
-
-**[Natural language to app schema compiler](https://github.com/Arjunx156/nl-app-compiler)**. Plain English in, validated UI, API, database and auth schemas out. Five Gemini stages pass 90% of a 20-test harness, and the repair engine reruns only the stage that failed. [Live](https://nl-app-compiler.vercel.app)
-
-**[Local LLM benchmarking harness](https://github.com/Arjunx156/Local-LLM-Benchmarking-Assistant)**. Six open-weight models, forty tasks and three graders (exact match, LLM as judge, sandboxed code execution), all offline, with latency and throughput logged per model.
-
-**[Kachra se Kamai](https://github.com/Arjunx156/kachra-se-kamai)**. Snap your dustbin and Amazon Nova prices your recyclables, then bundles pickups with your neighbours' for local waste pickers. Built on AWS SAM, Bedrock and Strands Agents.
-
-**[Task manager agent](https://github.com/Arjunx156/task-manager-agent)**. Scheduling, notes and day planning split across Google ADK sub-agents, running as a managed service on Cloud Run.
+[Schema compiler](https://github.com/Arjunx156/nl-app-compiler), plain English in and validated app schemas out &nbsp;·&nbsp; [Local LLM bench](https://github.com/Arjunx156/Local-LLM-Benchmarking-Assistant), six open models and three graders, all offline &nbsp;·&nbsp; [Kachra se Kamai](https://github.com/Arjunx156/kachra-se-kamai), recyclables priced by Amazon Nova &nbsp;·&nbsp; [Task manager agent](https://github.com/Arjunx156/task-manager-agent), Google ADK sub-agents on Cloud Run
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
-  <img src="assets/hello-light.svg" width="100%" alt="Hello, in particles that reflow through nine scripts, from English to Punjabi.">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hello-dark-still.avif">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hello-light-still.avif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.avif">
+  <img src="assets/hello-light.avif" width="100%" alt="The particles say hello in Telugu, Kannada, Bengali, Gujarati and Punjabi.">
 </picture>
 
-I'm looking for an internship in AI research, model evaluation or security. If your team cares whether the model is actually right, [write to me](mailto:dl.ai.u4aid24107@dl.students.amrita.edu) or find me on [LinkedIn](https://www.linkedin.com/in/arjunkrishnansuresh/).
+<p align="center">
+  Looking for an internship in AI research, model evaluation or security.<br>
+  If your team cares whether the model is actually right, <a href="mailto:dl.ai.u4aid24107@dl.students.amrita.edu">write to me</a>.
+</p>
 
-<sub>Engineered by Arjun Krishnan Suresh. Every SVG here is generated by [`tools/build.ts`](tools/build.ts) from the same fonts and numbers as the portfolio.</sub>
+<p align="center"><sub>Every frame here is my portfolio's GPU particle engine, rendered offline by <a href="tools/film">tools/film</a>. Engineered by Arjun Krishnan Suresh.</sub></p>
