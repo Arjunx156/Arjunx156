@@ -29,7 +29,7 @@
 
 LLM software that has to run, stream and stay up.
 
-**[VoiceCare AI](https://github.com/Arjunx156/VoiceCare-AI)**<br>Speak your problem in your own language and hear the fix back in under ten seconds. Nine LangGraph agents, nine Indian languages, one WebSocket. [Try it](https://frontend-roan-three-65.vercel.app).
+**[VoiceCare AI](https://github.com/Arjunx156/VoiceCare-AI)**<br>Speak your problem in your own language and hear the fix back in under ten seconds. Nine LangGraph agents, nine Indian languages, one WebSocket. [Try it](https://www.voicecareai.dev/).
 
 **[Hybrid RAG engine](https://github.com/Arjunx156/rag-system)**<br>BM25 and dense search vote, then a cross-encoder decides what the model reads. Precision@5 went from 68% to 84%, at zero cost per token. [Docs](https://arjunx156.github.io/rag-system/).
 
